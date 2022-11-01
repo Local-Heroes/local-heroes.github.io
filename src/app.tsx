@@ -4,6 +4,7 @@ import HeatMap from './heatmap/heatmap';
 
 
 export function App() {
+  console.log("here");
   return (<HeatMap/>)
 }
 
